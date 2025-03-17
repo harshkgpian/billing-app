@@ -1,0 +1,15 @@
+# Project Structure
+# - main.py              # Main entry point for the application
+# - database.py          # Database connection and utilities
+# - ui/                  # UI components
+#   - main_window.py     # Main window with navigation
+#   - customer_form.py   # Customer management form
+#   - billing_form.py    # Billing form
+#   - bills_view.py      # Bills view/report
+#   - customers_view.py  # Customers view/report
+# - models/              # Data models
+#   - customer.py        # Customer model
+#   - bill.py            # Bill model
+# - resources/           # Resources (icons, styles, etc.)
+# - schema.sql           # Database schema
+# - README.md            # Project documentation
