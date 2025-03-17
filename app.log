@@ -147,3 +147,12 @@
 2025-03-17 14:47:14,017 - root - INFO - Connected to MySQL database
 2025-03-17 14:47:14,027 - root - INFO - Connected to MySQL database
 2025-03-17 14:47:14,041 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,240 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,248 - root - ERROR - Error initializing database: 1061 (42000): Duplicate key name 'idx_customer_id'
+2025-03-17 14:49:32,255 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,262 - root - ERROR - Error initializing database: 1061 (42000): Duplicate key name 'idx_customer_id'
+2025-03-17 14:49:32,281 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,291 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,301 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:32,314 - root - INFO - Connected to MySQL database
+2025-03-17 14:49:35,576 - root - INFO - Connected to MySQL database

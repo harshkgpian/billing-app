@@ -59,10 +59,6 @@ python main.py
   - `bill.py`: Bill model
 - `schema.sql`: Database schema
 
-## Screenshots
-
-[Add screenshots of your application here]
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
